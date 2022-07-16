@@ -83,7 +83,7 @@ body {
 }
 
 /** For Mobile */
-@media (min-width: 280px) and (max-width: 450px) {
+@media (min-width: 280px) and (max-width: 650px) {
     .card {
         min-width: 90%;
     }
